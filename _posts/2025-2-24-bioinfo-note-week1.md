@@ -3,7 +3,7 @@ title: "bioinfo-note-w1"
 date: 2025-2-24
 ---
 # 课堂笔记  *week1*  
-## 1.课程信息
+## 1.课程信息  
 ### **参考资料**
 - **主教材**：课堂PPT + 《Bioinformatics Tutorial》实践教程  
 - **工具类参考书**：《鸟哥的Linux私房菜》  
@@ -26,7 +26,7 @@ date: 2025-2-24
 - **分析（*Analysis*）**：数据清洗、特征提取、统计检验。  
 - **建模（*Modeling*）**：构建概率模型或计算算法。
   
-## 3.算法与模型  
+## 3.算法与模型    
 ### **算法**(*Algorithm*)
 - 解决特定问题的**具体步骤或计算方法**，用于实现模型的训练、优化或预测。  
 *e.g.* Number Sorting Algorithm , Dynamic Programming Algorithm
@@ -37,7 +37,7 @@ date: 2025-2-24
 - 模型是“*什么*”，是定义问题的数学框架。它需要算法来训练和验证   
 - 算法是“*怎么做*”，是具体实现模型的步骤。它服务于模型，但可独立存在（如排序算法）
 
-# 学期规划
+# 学期规划  
 ### Programming Skills
 - **Weeks 1-4**: Linux  
 - **Weeks 5-16**: R  
