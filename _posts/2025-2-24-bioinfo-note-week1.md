@@ -35,6 +35,20 @@ date: 2025-2-24
 *e.g.* HMM (Hidden Markov Model) , Transformer (Large Language Model) 
 ### **关系**
 - 模型是“*什么*”，是定义问题的数学框架。它需要算法来训练和验证   
-- 算法是“*怎么做*”，是具体实现模型的步骤。它服务于模型，但可独立存在（如排序算法）  
+- 算法是“*怎么做*”，是具体实现模型的步骤。它服务于模型，但可独立存在（如排序算法）
+
+# 学期规划
+### Programming Skills
+- **Weeks 1-4**: Linux  
+- **Weeks 5-16**: R  
+- **Weeks 11-16**: Python (optional)  
+### Basic & NGS Data Analyses 
+- **Weeks 2-12**  
+### Machine Learning & AI
+- **Weeks 13-16**: basics and model introduction
+### group presentation
+- **Week 11，group 4**
+- **theme**: R or NGS Analysis
+- **member**: 玉海田、袁海洋、刘轩
 
 
