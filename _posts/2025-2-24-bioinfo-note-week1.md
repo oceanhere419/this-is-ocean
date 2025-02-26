@@ -8,7 +8,7 @@ date: 2025-2-24
 - **主教材**：课堂PPT + 《Bioinformatics Tutorial》实践教程  
 - **工具类参考书**：《鸟哥的Linux私房菜》  
 - **进阶书籍**：《Bioinformatics Data Skill》（需半年以上经验）  
-- **在线资源**：谷歌、维基百科、Biostars等论坛、智谱清音/ChatGPT/DeepSeek等AI工具
+- **在线资源**：谷歌、维基百科、Biostars等论坛、智谱清音/ChatGPT/DeepSeek等AI工具  
 #### 评分标准 
 课堂互动（20%）+ 作业（80%，7-9次）+ 经验分享（10-15分钟PPT，3+7）+ 挑战题加分    
 #### 学习安排
