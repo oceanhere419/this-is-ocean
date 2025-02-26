@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to ocean's blog
 ---
-**lesson 1**: setting up
+### **lesson 1**:  Setting up
