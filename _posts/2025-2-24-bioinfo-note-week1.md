@@ -18,7 +18,7 @@ date: 2025-2-24
 - **课外**：每周3-5小时（自学 + 小组讨论）
 
 #### **语言特色**  
-![contrast](./_posts/屏幕截图 2025-02-24 234145.pdf)  
+![contrast](https://github.com/oceanhere419/this-is-ocean/blob/4ea92c402b90b505b873437e0aefcd15b7cc66d1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-24%20234145.pdf)  
 
 ### 2.核心四步骤  
 - **问题（*Question*）**：提出生物学/医学假设。  
